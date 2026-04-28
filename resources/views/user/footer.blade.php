@@ -10,7 +10,7 @@
                     <h3 class="text-[#ffffff] font-bold italic font-display text-lg">Reszz Joki</h3>
                 </div>
                 <p class="text-gray-300 text-sm leading-relaxed">
-                    Layanan joki game online profesional dan terpercaya sejak 2020
+                    Layanan joki game online profesional dan terpercaya sejak 2026. Kami menyediakan berbagai layanan joki untuk berbagai game populer dengan harga yang kompetitif dan pelayanan terbaik. Bergabunglah dengan ribuan pelanggan puas kami dan tingkatkan pengalaman bermain game Anda bersama Reszz Joki!
                 </p>
             </div>
 
